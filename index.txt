@@ -1,0 +1,2 @@
+https://medium.com/llamaindex-blog/build-a-chatgpt-with-your-private-data-using-llamaindex-and-mongodb-b09850eb154c  
+https://colab.research.google.com/drive/1SNIeLW38Nvx6MtL3-_LPS2XTIzqD4gS6?usp=sharing
